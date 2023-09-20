@@ -14,4 +14,4 @@ Dashboard - https://app.powerbi.com/view?r=eyJrIjoiY2U5NWFlOGItY2Y1YS00YzliLTg0M
 
 NovyPro link - https://www.novypro.com/project/entertainer-data-analysis
 
-Youtube Video - 
+Youtube Video - https://youtu.be/dNXEicLDbK8?si=tk9gwXz7vc8tcVPU
